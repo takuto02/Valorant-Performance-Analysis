@@ -8,4 +8,4 @@ I am a fast learner so I decided to take my time learning these skills and apply
 
 I chose the topic of performance without warming up because I realized that most people usually don't warm up before their competitive games. So, I decided to analyse the behaviour of my stats, how well I perform without warming up, and if there are any consequences from doing it.
 
-I hope your ccuriosity is satisfied by my findings and thank you for taking the time to read this!
+I hope your curiosity is satisfied by my findings and thank you for taking the time to read this!
